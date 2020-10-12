@@ -1,6 +1,8 @@
-### Hi There, I'm [Hewan Shrestha!] 👋
+<p align="center">
+  <img src="https://github.com/hewanshrestha/hewanshrestha/blob/master/readme.gif">
+</p>
 
-<iframe src="https://giphy.com/embed/2xPPojqe3mraUXS6dk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/world-hello-text-2xPPojqe3mraUXS6dk">via GIPHY</a></p>
+### Hi There, I'm [Hewan Shrestha!] 
 
 <a href="https://www.facebook.com/hewanshrestha12/">
   <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
