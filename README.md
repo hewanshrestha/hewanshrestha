@@ -11,7 +11,9 @@
 <a href="https://www.twitter.com/hewanshrestha/">
   <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
+
 <br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=hewanshrestha alt=hewanshrestha/></p>
 <br>
 
 I am a passionate self-taught programmer from Nepal.
