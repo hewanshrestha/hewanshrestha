@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hewanshrestha/hewanshrestha/blob/master/readme.gif" width="200px">
+  <img src="https://github.com/hewanshrestha/hewanshrestha/blob/master/readme.gif" width="300px">
 </p>
 
 ### Hi There, I'm [Hewan Shrestha!] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
