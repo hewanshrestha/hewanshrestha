@@ -30,5 +30,12 @@ I am a passionate self-taught programmer from Nepal.<br>
 😄 Pronouns: He/His/Him <br>
 ⚡ Fun fact: I spend a lof of time listening songs. <br>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+## Quick Overview 📝
+    
+<a href="https://github.com/hewanshrestha/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hewanshrestha&show_icons=true&include_all_commits=true&theme=radical" alt="Hewan's github stats" />
+</a>
+<a href="https://github.com/hewanshrestha/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hewanshrestha&layout=compact&theme=radical" />
+</a>
