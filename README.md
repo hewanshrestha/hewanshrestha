@@ -7,11 +7,12 @@
 
 <br>
 <br>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=hewanshrestha alt=hewanshrestha/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=hewanshrestha alt=hewanshrestha/>
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=hewanshrestha&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/hewanshrestha?label=follow&style=social)](https://github.com/hewanshrestha)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+	</p>
 <br>
 I am a passionate self-taught programmer from Nepal.<br>
 🔭 I’m currently working on Personal Portfolio Website.<br> 
