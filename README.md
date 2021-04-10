@@ -24,7 +24,7 @@ I am a passionate self-taught programmer from Nepal.<br>
 ⚡ Fun fact: I spend a lof of time listening songs. <br>
 
 ### Let's Connect :coffee:
-<p align="center">
+<p align="left">
 	<a href="https://github.com/hewanshrestha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hewanshrestha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/hewanshrestha12/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
