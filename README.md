@@ -8,8 +8,8 @@
 <br>
 <br>
 <p align="left">
-<img src="https://img.shields.io/badge/version-25.03.2021-informational"/>;
-<img src="https://komarev.com/ghpvc/?username=hewanshrestha&color=red"/>;
+<img src="https://img.shields.io/badge/version-25.03.2021-informational"/>
+<img src="https://komarev.com/ghpvc/?username=hewanshrestha&color=red"/>
 <img src="https://img.shields.io/github/followers/hewanshrestha?label=follow&style=social"/>
 <img src="https://img.shields.io/badge/build-passing-success"/>
 	</p>
