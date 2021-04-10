@@ -2,19 +2,19 @@
   <img src="https://github.com/hewanshrestha/hewanshrestha/blob/master/readme.gif" width="300px">
 </p>
 
-### Hi There, I'm [Hewan Shrestha!] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <a href="https://www.facebook.com/hewanshrestha12/">
-  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" color="aqua">
+  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" color="white">
 </a>
 <a href="https://www.instagram.com/hewan_shrestha/">
-  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="aqua">
+  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="white">
 </a>
 <a href="https://www.linkedin.com/in/hewanshrestha/">
-  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="aqua">
+  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white">
 </a>
 <a href="https://www.twitter.com/hewanshrestha/">
-  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="aqua">
+  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="white">
 </a>
 <br>
 <br>
