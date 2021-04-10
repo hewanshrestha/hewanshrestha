@@ -7,11 +7,11 @@
 
 <br>
 <br>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=hewanshrestha alt=hewanshrestha/>
+<p align="left">
 <img src="https://img.shields.io/badge/version-25.03.2021-informational"/>;
 <img src="https://komarev.com/ghpvc/?username=hewanshrestha&color=red"/>;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/hewanshrestha?label=follow&style=social)](https://github.com/hewanshrestha)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+<img src="https://img.shields.io/github/followers/hewanshrestha?label=follow&style=social"/>
+<img src="https://img.shields.io/badge/build-passing-success"/>
 	</p>
 <br>
 I am a passionate self-taught programmer from Nepal.<br>
