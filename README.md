@@ -46,7 +46,6 @@ I am a passionate self-taught programmer from Nepal.<br>
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/pytorch%20-%23150458.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 
 ## Quick Overview 📝
     
