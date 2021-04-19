@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<b>Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></b>
+<b>Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a></b><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </p>
 
 <br>
