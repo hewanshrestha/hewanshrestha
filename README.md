@@ -3,26 +3,27 @@
 
 
 ### Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
+</p>
 
 <br>
 <br>
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/version-25.03.2021-informational"/>
 <img src="https://komarev.com/ghpvc/?username=hewanshrestha&color=red"/>
 <img src="https://img.shields.io/github/followers/hewanshrestha?label=follow&style=social"/>
 <img src="https://img.shields.io/badge/build-passing-success"/>
-	</p>
+</p>
 <br>
 
+
+<p align="center">
 ### :coffee: &nbsp; Let's Connect 
-<p align="left">
 	<a href="https://github.com/hewanshrestha/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 	<a href="https://www.linkedin.com/in/hewanshrestha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://www.facebook.com/hewanshrestha12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 	<a href="https://www.instagram.com/hewan.shrestha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 	<a href="https://twitter.com/hewanshrestha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,3 +48,4 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hewanshrestha&layout=compact&theme=radical&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </a>
 </p>
+
