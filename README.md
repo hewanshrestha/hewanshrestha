@@ -14,21 +14,12 @@
 <img src="https://img.shields.io/badge/build-passing-success"/>
 	</p>
 <br>
-I am a passionate self-taught programmer from Nepal.<br>
-🔭 I’m currently working on Personal Portfolio Website.<br> 
-🌱 I’m currently learning Computer Vision.<br>
-👯 I’m looking to collaborate on Machine Learning Projects.<br>
-🤔 I’m looking for help with Image Segmentation.<br>
-💬 Ask me about Python and Flask.<br>
-📫 How to reach me: shresthahewan12@gmail.com <br>
-😄 Pronouns: He/His/Him <br>
-⚡ Fun fact: I spend a lof of time listening songs. <br>
 
 ### Let's Connect :coffee:
 <p align="left">
 	<a href="https://github.com/hewanshrestha"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/hewanshrestha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/hewanshrestha12/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/hewanshrestha12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the	badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/hewan.shrestha/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/hewanshrestha"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
