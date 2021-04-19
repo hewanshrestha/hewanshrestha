@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/hewanshrestha/hewanshrestha/blob/master/readme.gif" width="300px">
+</p>
 
-
+<p align="center">
 ### Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a>! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </p>
 
@@ -23,8 +24,9 @@
 	<a href="https://www.facebook.com/hewanshrestha12/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 	<a href="https://www.instagram.com/hewan.shrestha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 	<a href="https://twitter.com/hewanshrestha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-
+<p align="center">
 ### 🛠 &nbsp;Tech Stack
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
@@ -38,7 +40,9 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+</p>
 
+<p align="center">
 ### 📝 &nbsp;GitHub Statistics 
     
 <a href="https://github.com/hewanshrestha/github-readme-stats">
