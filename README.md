@@ -54,10 +54,10 @@
 <p align="center">
 
 <a href="https://github.com/hewanshrestha/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hewan's Github Stats"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=399fd7&icon_color=22ae5f&text_color=D3D3D3&bg_color=0,000000,0e7912" alt="Hewan's Github Stats"></a>
 <a href="https://github.com/hewanshrestha/github-readme-stats">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hewanshrestha&layout=compact&theme=radical&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hewanshrestha&layout=compact&theme=radical&title_color=399fd7&icon_color=22ae5f&text_color=D3D3D3&bg_color=0,000000,0e7912" />
 </a>
 </p>
 
