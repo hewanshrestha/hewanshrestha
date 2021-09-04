@@ -56,8 +56,6 @@
 <a href="https://github.com/hewanshrestha/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=0d503c&icon_color=0d503c&text_color=0b1c36&bg_color=d0e4e4" alt="Hewan's Github Stats"></a>
 <a href="https://github.com/hewanshrestha/github-readme-stats">
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hewanshrestha&layout=compact&theme=radical&title_color=0d503c&icon_color=0d503c&text_color=0b1c36&bg_color=d0e4e4" />
 </a>
 </p>
 
