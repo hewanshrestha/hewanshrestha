@@ -55,6 +55,5 @@
 </p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&show_icons=true">
-	<img src="https://contrib.rocks/image?repo=hewanshrestha/ML-Algorithms">
 </p>
 
