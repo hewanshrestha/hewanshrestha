@@ -55,7 +55,7 @@
 <p align="center">
 
 <a href="https://github.com/hewanshrestha/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=0764fb&icon_color=0764fb&text_color=0764fb&bg_color=d0e4e4" alt="Hewan's Github Stats"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=123f3f&icon_color=0764fb&text_color=123f3f&bg_color=d0e4e4" alt="Hewan's Github Stats"></a>
 <a href="https://github.com/hewanshrestha/github-readme-stats">
 </a>
 </p>
