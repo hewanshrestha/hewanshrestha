@@ -56,7 +56,7 @@
 <p align="center">
 
 <a href="https://github.com/hewanshrestha/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=0764fb&icon_color=123f3f&text_color=0764fb&bg_color=d0e4e4&theme=blue-green alt="Hewan's Github Stats"></a>
-<img align="center" src="https://starchart.cc/{hewanshrestha}/{repo}.svg"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=0764fb&icon_color=123f3f&text_color=0764fb&bg_color=d0e4e4 alt="Hewan's Github Stats"></a>
+<img align="center" src="https://starchart.cc/{hewanshrestha}/{ML-Algorithms}.svg"/>
 </p>
 
