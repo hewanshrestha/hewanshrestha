@@ -22,7 +22,6 @@
 </p>
 <p align="center">
 <a href="https://www.researchgate.net/profile/Hewan-Shrestha-2" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
-<a href="https://github.com/hewanshrestha/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hewanshrestha/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 	<a href="https://www.facebook.com/hewanshrestha12/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 	<a href="https://www.instagram.com/hewan.shrestha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
