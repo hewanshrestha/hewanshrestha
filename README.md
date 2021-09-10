@@ -64,18 +64,15 @@
 <br><br>
 
 <p align="center">
-	<b> 📝 &nbsp;GitHub Statistics </b>
+	<b> 📝 &nbsp;GitHub Statss </b>
 </p>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&show_icons=true">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?username={hewanshrestha}">
-</p>
-
-
-<p align="center">
-	<b>🔥 Streak stats </b>
 </p>
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hewanshrestha&theme=monokai-metallian&hide_border=true"/>
+	<b>🔥 Streak Stats </b>
+</p>
+<p align="center">
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hewanshrestha&hide_border=true"/>
 </p>
 
