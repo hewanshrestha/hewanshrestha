@@ -54,8 +54,7 @@
 	<b> 📝 &nbsp;GitHub Statistics </b>
 </p>
 <p align="center">
-
-<a href="https://github.com/hewanshrestha/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&show_icons=true"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&show_icons=true">
+	<img src="https://contrib.rocks/image?repo=hewanshrestha/ML-Algorithms">
 </p>
 
