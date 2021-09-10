@@ -1,7 +1,3 @@
-/*<p align="center">
-  <img src="https://github.com/hewanshrestha/hewanshrestha/blob/master/readme.gif" width="300px">
-</p>
-*/
 <p align="center">
 <b>Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a></b><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </p>
