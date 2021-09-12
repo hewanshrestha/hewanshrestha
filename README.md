@@ -60,12 +60,12 @@
 	<b> 📝 &nbsp;GitHub Stats </b>
 </p>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=hewanshrestha&show_icons=true&theme=green_nur">
 </p>
 <p align="center">
 	<b>🔥 Streak Stats </b>
 </p>
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hewanshrestha&hide_border=true"/>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hewan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hewanshrestha&hide_border=true&theme=green_nur"/>
 </p>
 
