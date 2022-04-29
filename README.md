@@ -2,7 +2,7 @@
 
 - I am currently a senior undergraduate student pursuing Computer Science at Madanapalle Institute of Technology & Science.
 - My research interests include 3D Computer Vision and Medical Image Analysis.
-- How to reach me: [shresthahewan12@gmail.com(mailto:shresthahewan12@gmail.com)
+- How to reach me: shresthahewan12@gmail.com
 
 
 
