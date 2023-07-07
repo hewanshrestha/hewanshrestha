@@ -2,7 +2,7 @@
 
 - I am currently a first year graduate student at Saarland University pursuing my master studies in Visual Computing.
 - My research interests include 3D Computer Vision and Medical Image Analysis.
-- How to reach me: shresthahewan12@gmail.com | hesh00001@uni-saarland.de
+- How to reach me: shresthahewan12@gmail.com | hesh00001@stud.uni-saarland.de
 
 
 
