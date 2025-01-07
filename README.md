@@ -1,7 +1,7 @@
 <b>Hi There, I'm <a href="https://hewanshrestha.github.io" target="_blank">Hewan</a></b><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- I am currently a first year graduate student at Saarland University pursuing my master studies in Visual Computing.
-- My research interests include Remote Sensing and Computational Demography with Computer Vision
+- I am currently a final year graduate student at Saarland University pursuing my master studies in Visual Computing at Saarland University.
+- My research interests include Computer Vision, Natural Language Processing and Multimodal Analysis for Social Good.
 - How to reach me: shresthahewan12@gmail.com | hesh00001@stud.uni-saarland.de
 
 
