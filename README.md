@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Low Resource Dataset Curation**
 
-- 👨‍💻 All of my projects are available at [hewanshrestha.github.io](hewanshrestha.github.io)
+- 👨‍💻 All of my projects are available at [hewanshrestha.github.io](https://hewanshrestha.github.io)
 
 - 📫 How to reach me shresthahewan12@gmail.com
 
