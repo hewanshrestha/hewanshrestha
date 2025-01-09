@@ -15,5 +15,9 @@
 <p align="left">
 	<b>🔥 Streak Stats </b>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=hewanshrestha)](https://git.io/streak-stats)
+
+<p align="left">
+	<img src="https://streak-stats.demolab.com?user=hewanshrestha">
+</p>
+
 
